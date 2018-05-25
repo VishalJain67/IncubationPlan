@@ -18,7 +18,7 @@ public class BasicAPI {
 		given().
 		       param("location","-33.8670522,151.1957362").
 		       param("radius","1500").
-		       param("key","AIzaSyD93aeGhO1MiB5cGhUA_j24WCILYowRTpA").
+		       param("key","AIzaSyD93aeGhO1MiB5cGhUApA").
 		       param("type","restaurant").
 		       param("keyword","cruise").
 		when().
